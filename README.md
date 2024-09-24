@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rudrasish2003@gmail.com**
   
-- <a href src="https://rudrasish2003.github.io/MyPortfolio/">🚀 Vist My Portfolio</a>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
