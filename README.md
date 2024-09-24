@@ -10,6 +10,8 @@
 - 💬 Ask me about **Machine Learning,CNN,Deep Learning**
 
 - 📫 How to reach me **rudrasish2003@gmail.com**
+  
+- <href src="https://rudrasish2003.github.io/MyPortfolio/">🚀 Vist My Portfolio</href>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
