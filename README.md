@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning,CNN,Deep Learning**
 
-- 📫 How to reach me **rudrasish2003.github.io/MyPortfolio/**
+- 📫 How to reach me **rudrasish2003@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
