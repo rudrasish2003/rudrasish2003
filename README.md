@@ -7,11 +7,12 @@
 
 - 🔭 I’m currently working on **Shabdh.Ai**
 
+- 🌱 I’m currently learning **Transformer Models & Deep Voice**
+
 - 💬 Ask me about **Machine Learning,CNN,Deep Learning**
 
-- 📫 How to reach me **rudrasish2003@gmail.com**
-  
- 
+- 📫 How to reach me **rudrasish2003.github.io/MyPortfolio/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
