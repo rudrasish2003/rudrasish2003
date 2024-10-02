@@ -18,8 +18,17 @@
 
 ---
 
+<style>
+  .tech-stack img {
+    transition: transform 0.2s; /* Animation effect */
+  }
+  .tech-stack img:hover {
+    transform: scale(1.1); /* Scale effect on hover */
+  }
+</style>
+
 # 💻 Tech Stack:
-<p>
+<div class="tech-stack">
   <a href="https://cplusplus.com" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="margin-bottom: 4px;" />
   </a>
@@ -69,23 +78,21 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-bottom: 4px;" />
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/matplotlib-%23377B29.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="margin-bottom: 4px;" />
+    <img src="https://img.shields.io/badge/matplotlib-%23E85D00.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="margin-bottom: 4px;" />
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" style="margin-bottom: 4px;" />
+    <img src="https://img.shields.io/badge/Jupyter-%23DA5B0B.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" style="margin-bottom: 4px;" />
   </a>
   <a href="https://opencv.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="margin-bottom: 4px;" />
   </a>
   <a href="https://google.github.io/mediapipe/" target="_blank">
-    <img src="https://img.shields.io/badge/MediaPipe-%23673A39.svg?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" style="margin-bottom: 4px;" />
+    <img src="https://img.shields.io/badge/MediaPipe-%2300BFFF.svg?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" style="margin-bottom: 4px;" />
   </a>
   <a href="https://huggingface.co/docs/transformers/index" target="_blank">
-    <img src="https://img.shields.io/badge/Transformers-%23232F37.svg?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers" style="margin-bottom: 4px;" />
+    <img src="https://img.shields.io/badge/Transformers-%23FF5722.svg?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers" style="margin-bottom: 4px;" />
   </a>
-</p>
- 
-
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rudrasish2003&theme=dark&hide_border=false)<br/>
