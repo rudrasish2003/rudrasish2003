@@ -14,7 +14,8 @@
 - 🌱 I’m currently learning **Transformer Models & Deep Voice**  
 - 💬 Ask me about **Machine Learning, CNN, Deep Learning**  
 - 📫 How to reach me: **rudrasish2003@gmail.com**  
-- 👨‍💻 Visit My Portfolio at [https://rudrasish2003.github.io/MyPortfolio/](https://rudrasish2003.github.io/MyPortfolio/)
+- 👨‍💻 Visit My Portfolio at [My Portfolio](https://rudrasish2003.github.io/MyPortfolio/)
+
 
 ---
 
