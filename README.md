@@ -18,10 +18,9 @@
 ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rudrasheeeesh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrasish-dutta-9b9078282)  
 
-<h3 align="left">LeetCode Stats:</h3> 
-<p align="left"> 
-  <img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats"> 
-</p> 
+# 🏆 LeetCode Stats:
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?rudrasish_2003)](https://github.com/KnlnKS/leetcode-stats)
+
 
 # 💻 Tech Stack:
 
