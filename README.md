@@ -1,23 +1,19 @@
 <h1 align="center">
-  Hi 👋, I'm Rudrasish Dutta 
+  Hi , I'm Rudrasish Dutta 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<h3 align="center">A passionate ML and DL developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/format:webp/1*d8IeyIrrFXiuDBVCIsikLg.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rudrasish2003&label=Profile%20views&color=0e75b6&style=flat" alt="rudrasish2003" /> 
 </p>
 
-- 🔭 I’m currently working on **Shabdh.Ai**
-
-- 🌱 I’m currently learning **Transformer Models & Deep Voice**
-
-- 💬 Ask me about **Machine Learning, CNN, Deep Learning**
-
-- 📫 How to reach me: **rudrasish2003@gmail.com**
-
+- 🔭 I’m currently working on **Shabdh.Ai**  
+- 🌱 I’m currently learning **Transformer Models & Deep Voice**  
+- 💬 Ask me about **Machine Learning, CNN, Deep Learning**  
+- 📫 How to reach me: **rudrasish2003@gmail.com**  
 - 👨‍💻 Visit My Portfolio at [https://rudrasish2003.github.io/MyPortfolio/](https://rudrasish2003.github.io/MyPortfolio/)
 
 ---
@@ -89,4 +85,4 @@
 ---
 
 <h3 align="center">Thanks for stopping by! 😊</h3>
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="Thanks Gif">
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="Thanks Gif" align="center">
