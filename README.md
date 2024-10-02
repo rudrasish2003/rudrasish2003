@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">A Driven Innovator in the World of Machine and Deep Learning</h3>
 
-<img align="right" alt="Coding" width="400" height="250" src="https://github.com/rudrasish2003/rudrasish2003/blob/main/Neural.gif">
+<img align="right" alt="Coding" width="400" height="240" src="https://github.com/rudrasish2003/rudrasish2003/blob/main/Neural.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rudrasish2003&label=Profile%20views&color=0e75b6&style=flat" alt="rudrasish2003" /> 
