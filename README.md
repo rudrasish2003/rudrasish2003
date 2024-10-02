@@ -2,7 +2,7 @@
   Hi , I'm Rudrasish Dutta 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<h3 align="center">A passionate ML and DL Developer</h3>
+<h3 align="center">A Driven Innovator in the World of Machine and Deep Learning</h3>
 
 <img align="right" alt="Coding" width="400" height="200" src="https://github.com/rudrasish2003/rudrasish2003/blob/main/Neural.gif">
 
