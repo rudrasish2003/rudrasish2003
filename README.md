@@ -68,8 +68,22 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-bottom: 4px;" />
   </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/badge/matplotlib-%23377B29.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://google.github.io/mediapipe/" target="_blank">
+    <img src="https://img.shields.io/badge/MediaPipe-%23673A39.svg?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://huggingface.co/docs/transformers/index" target="_blank">
+    <img src="https://img.shields.io/badge/Transformers-%23232F37.svg?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers" style="margin-bottom: 4px;" />
+  </a>
 </p>
-
 ---
 
 # 📊 GitHub Stats:
