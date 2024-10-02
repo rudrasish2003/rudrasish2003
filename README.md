@@ -6,9 +6,7 @@
 
 <img align="right" alt="Coding" width="400" height="180" src="https://github.com/rudrasish2003/rudrasish2003/blob/main/Neural.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rudrasish2003&label=Profile%20views&color=0e75b6&style=flat" alt="rudrasish2003" /> 
-</p>
+ 
 
 - 🔭 Currently working on **Shabdh.Ai**  
 - 🌱 Expanding knowledge in **Transformer Models & Deep Voice Technologies**  
@@ -94,6 +92,11 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rudrasish2003&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
 
 <h3 align="center">Thanks for stopping by! 😊</h3>
 <p align="center">
