@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">A passionate ML and DL Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o72FQ8u4H6D4YqCqA/giphy.gif">
+<img align="right" alt="Coding" width="400" src=" https://i.gifer.com/9B9p.mp4">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rudrasish2003&label=Profile%20views&color=0e75b6&style=flat" alt="rudrasish2003" /> 
