@@ -49,5 +49,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rudrasish2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrasish2003&show_icons=true&locale=en" alt="rudrasish2003" /></p>
-
+ 
