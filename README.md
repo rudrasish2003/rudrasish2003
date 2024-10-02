@@ -85,7 +85,13 @@
   </a>
 </div>
 
+<h3 align="center">Thanks for stopping by! 😊</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="Thanks Gif">
+</p> . Make changes in this markdown....I am a machine and deep learning developer and people should get the impression from first visit
+
 ---
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
