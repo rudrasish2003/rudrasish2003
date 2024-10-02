@@ -4,30 +4,29 @@
 </h1>
 <h3 align="center">A passionate ML and DL Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o72FQ8u4H6D4YqCqA/giphy.gif">
+<div align="right">
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/3o72FQ8u4H6D4YqCqA/giphy.gif">
+</div>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rudrasish2003&label=Profile%20views&color=0e75b6&style=flat" alt="rudrasish2003" /> 
+  <img src="https://komarev.com/ghpvc/?username=rudrasish2003&label=Profile%20views&color=0e75b6&style=flat" alt="rudrasish2003" />
 </p>
 
-- 🔭 I’m currently working on **Shabdh.Ai**  
-- 🌱 I’m currently learning **Transformer Models & Deep Voice**  
-- 💬 Ask me about **Machine Learning, CNN, Deep Learning**  
+- 🔭 I’m currently working on **Shabdh.AI**, a real-time Indian Sign Language translator designed to facilitate communication for the deaf and hard-of-hearing community. 
+- 🌱 I’m learning about **Transformer Models & Deep Voice** to enhance my deep learning projects.
+- 💬 Feel free to ask me about **Machine Learning, CNN, and Deep Learning**; I'm always eager to discuss ideas!
 - 📫 How to reach me: **rudrasish2003@gmail.com**  
 - 👨‍💻 Visit My Portfolio at [https://rudrasish2003.github.io/MyPortfolio/](https://rudrasish2003.github.io/MyPortfolio/)
 
 ---
 
 # 💻 Tech Stack:
-<p>
+<p align="center">
   <a href="https://cplusplus.com" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="margin-bottom: 4px;" />
   </a>
   <a href="https://python.org" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="margin-bottom: 4px;" />
-  </a>
-  <a href="https://java.com" target="_blank">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-bottom: 4px;" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="margin-bottom: 4px;" />
@@ -37,18 +36,6 @@
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" style="margin-bottom: 4px;" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin-bottom: 4px;" />
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="margin-bottom: 4px;" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Seaborn-%230C55A5.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" style="margin-bottom: 4px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-bottom: 4px;" />
   </a>
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-%23FF6F00.svg?style=for-the-badge&logo=hugging-face&logoColor=white" alt="Hugging Face" style="margin-bottom: 4px;" />
@@ -65,22 +52,25 @@
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin-bottom: 4px;" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-bottom: 4px;" />
-  </a>
 </p>
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rudrasish2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasish2003&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Stats">
+</div>
 
 ---
 
 # 🏆 LeetCode Stats:
-<img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats">
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats">
+</div>
 
 ---
 
