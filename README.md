@@ -18,14 +18,7 @@
 
 ---
 
-<style>
-  .tech-stack img {
-    transition: transform 0.2s; /* Animation effect */
-  }
-  .tech-stack img:hover {
-    transform: scale(1.1); /* Scale effect on hover */
-  }
-</style>
+ 
 
 # 💻 Tech Stack:
 <div class="tech-stack">
