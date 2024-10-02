@@ -15,13 +15,9 @@
 
 - 👨‍💻 Visit My Portfolio at [https://rudrasish2003.github.io/MyPortfolio/](https://rudrasish2003.github.io/MyPortfolio/)
 
+## 🌐 Socials:
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.rudrasheeeesh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrasish-dutta-9b9078282)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rudrasish-dutta-9b9078282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudrasish dutta" height="30" width="40" /></a>
-<a href="https://kaggle.com/rudrasishdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rudrasishdutta" height="30" width="40" /></a>
-<a href="https://instagram.com/_.rudrasheeeesh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rudrasheeeesh._" height="30" width="40" /></a>
-</p>
 <h3 align="left">LeetCode Stats:</h3> 
 <p align="left"> 
   <img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats"> 
