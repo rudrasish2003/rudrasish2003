@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">A passionate ML and DL Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202211/MIT-Neural-Networks-01_0.gif?itok=JNbooIWQ">
+<img align="right" alt="Coding" width="400" src="[https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202211/MIT-Neural-Networks-01_0.gif?itok=JNbooIWQ](https://github.com/rudrasish2003/rudrasish2003/blob/main/Neural.gif)">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rudrasish2003&label=Profile%20views&color=0e75b6&style=flat" alt="rudrasish2003" /> 
