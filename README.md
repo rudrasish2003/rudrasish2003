@@ -52,6 +52,21 @@
 
 ---
 
+# 📱 Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/rudrasish-dutta-90b5b2234/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/RudrasishDutta2" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/rudrasish_dutta/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
 <h3 align="center">Thanks for stopping by! 😊</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="Thanks Gif">
