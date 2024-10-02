@@ -93,8 +93,8 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rudrasish2003&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="center"> 👁️ Visitor's Count </h3>
-<p align="center">
+# 👁️ Visitor's Count 
+<p >
   <img src="https://profile-counter.glitch.me/{rudrasish2003}/count.svg" alt="Rudrasish:: Visitor's Count" />
 </p>
 
