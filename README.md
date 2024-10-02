@@ -85,10 +85,7 @@
   </a>
 </div>
 
-<h3 align="center">Thanks for stopping by! 😊</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="Thanks Gif">
-</p> . Make changes in this markdown....I am a machine and deep learning developer and people should get the impression from first visit
+
 
 ---
 
@@ -100,3 +97,8 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rudrasish2003&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+<h3 align="center">Thanks for stopping by! 😊</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="Thanks Gif">
+</p> .  
