@@ -94,8 +94,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=rudrasish2003&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/rudrasish2003-profileviews/count.svg" alt="Rudrasish:: Profile View Count" />
+  <img src="https://profile-counter.glitch.me/{rudrasish2003}/count.svg" alt="Rudrasish:: Visitor's Count" />
 </p>
+
 
 
 <h3 align="center">Thanks for stopping by! 😊</h3>
