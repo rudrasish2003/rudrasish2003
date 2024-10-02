@@ -95,7 +95,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rudrasish2003}/count.svg" alt="Rudrasish:: Visitor's Count" /></p>
 
 
 <h3 align="center">Thanks for stopping by! 😊</h3>
