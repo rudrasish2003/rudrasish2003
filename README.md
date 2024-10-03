@@ -4,6 +4,8 @@
 </h1>
 <h3 align="center">Innovating the Future with Machine and Deep Learning</h3>
 
+![gitartwork](gitartwork.svg)
+
 <img align="right" alt="Coding" width="400" height="180" src="https://github.com/rudrasish2003/rudrasish2003/blob/main/Neural.gif">
 
  
