@@ -1,11 +1,10 @@
 <h1 align="center">
   Hello, I'm Rudrasish Dutta 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <br> 
-  <center><h1>aka</h1></center>center>
+ 
   </h1>
 
-![gitartwork]((gitartwork.svg))
+![gitartwork](gitartwork.svg)
 
 <h3 align="center">Innovating the Future with Machine and Deep Learning</h3>
 
