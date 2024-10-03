@@ -84,10 +84,9 @@
 </div>
 
 ---
-#💻 Leetcode Stats
-<p align="left"> 
-  <img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats"> 
-</p> 
+
+# 🏆 LeetCode Stats:
+<img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats">
 
 ---
 
