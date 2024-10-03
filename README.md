@@ -18,7 +18,7 @@
 - 🔭 Currently working on **Shabdh.Ai**  
 - 🌱 Expanding knowledge in **Transformer Models & Deep Voice Technologies**  
 - 💬 Happy to discuss **Machine Learning, CNN, Deep Learning**  
-- 📫 Reach me at<a href="mailto:rudrasish2003@gmail.com"> [Static Badge](https://img.shields.io/badge/rudrasish2003%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%rudrasish2003%40gmail.com)</a>
+- 📫 Reach me at<a href="mailto:rudrasish2003@gmail.com">{Static Badge](https://img.shields.io/badge/rudrasish2003%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%rudrasish2003%40gmail.com)</a>
 - 👨‍💻 Explore My Portfolio: <a href="https://rudrasish2003.github.io/MyPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" style="display: inline-block; vertical-align: middle;"/></a>
 
 
