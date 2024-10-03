@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+👋;This+is+Rudrasish+....&center=true&size=30">
   </a>
 </h1>
+
+<h3 align="center">Innovating the Future with Machine and Deep Learning</h3>
   
 
 ![gitartwork](gitartwork.svg)
