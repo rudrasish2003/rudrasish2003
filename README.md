@@ -85,6 +85,13 @@
 
 ---
 
+#💻Leetcode Stats
+<p align="left"> 
+  <img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats"> 
+</p> 
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rudrasish2003&theme=dark&hide_border=false)<br/>
