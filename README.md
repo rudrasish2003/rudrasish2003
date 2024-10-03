@@ -84,8 +84,7 @@
 </div>
 
 ---
-
-#💻Leetcode Stats
+#💻 Leetcode Stats
 <p align="left"> 
   <img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats"> 
 </p> 
