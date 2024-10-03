@@ -18,7 +18,8 @@
 - 🔭 Currently working on **Shabdh.Ai**  
 - 🌱 Expanding knowledge in **Transformer Models & Deep Voice Technologies**  
 - 💬 Happy to discuss **Machine Learning, CNN, Deep Learning**  
-- 📫 Reach me via: **rudrasish2003@gmail.com**  
+- 📫 How to reach me <a href="mailto:rudrasish2003@gmail.com">![Static Badge](https://img.shields.io/badge/arpanchowdhury003%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%rudrasish2003%40gmail.com)</a>
+ 
 - 👨‍💻 Explore My Portfolio: [**Portfolio**](https://rudrasish2003.github.io/MyPortfolio/)
 
 ---
