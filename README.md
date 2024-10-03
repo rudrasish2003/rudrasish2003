@@ -11,7 +11,7 @@
 
  
 
-<img align="right" alt="Coding" width="400" height="180" src="https://github.com/rudrasish2003/rudrasish2003/blob/main/Neural.gif">
+<img align="right" alt="Coding" width="400" height="150" src="https://github.com/rudrasish2003/rudrasish2003/blob/main/Neural.gif">
 
  
 
