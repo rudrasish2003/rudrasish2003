@@ -1,13 +1,13 @@
  <h1 align="center">
-
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Arpan+AKAapu52....;Nice+to+meet+you!&center=true&size=30">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Rudrasish+Innovating the Future with Machine and Deep Learning....;&center=true&size=30">
   </a>
 </h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  
 
 ![gitartwork](gitartwork.svg)
 
-<h3 align="center">Innovating the Future with Machine and Deep Learning</h3>
+ 
 
 <img align="right" alt="Coding" width="400" height="180" src="https://github.com/rudrasish2003/rudrasish2003/blob/main/Neural.gif">
 
