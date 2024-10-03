@@ -1,9 +1,9 @@
-<h1 align="center">
-  Hello, I'm Rudrasish Dutta  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <br>
-  AKA 
+ <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Arpan+AKAapu52....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 </h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ![gitartwork](gitartwork.svg)
 
