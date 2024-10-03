@@ -20,7 +20,8 @@
 - 💬 Happy to discuss **Machine Learning, CNN, Deep Learning**  
 - 📫 Reach me at<a href="mailto:rudrasish2003@gmail.com">![Static Badge](https://img.shields.io/badge/rudrasish2003%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%rudrasish2003%40gmail.com)</a>
  
-- 👨‍💻 Explore My Portfolio: [**Portfolio**](https://rudrasish2003.github.io/MyPortfolio/)
+- 👨‍💻 Explore My Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rudrasish2003.github.io/MyPortfolio/)
+
 
 ---
 
