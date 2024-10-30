@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3>Innovating the Future with Machine and Deep Learning</h3>
+<h3 align="center">Innovating the Future with Machine and Deep Learning</h3>
   
 
 ![gitartwork](gitartwork.svg)
