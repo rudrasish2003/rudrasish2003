@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">Innovating the Future with Machine and Deep Learning</h3>
+<h3>Innovating the Future with Machine and Deep Learning</h3>
   
 
 ![gitartwork](gitartwork.svg)
@@ -121,7 +121,7 @@
    </p>
 
 # 👁️ Visitor's Count 
-<p >
+<p align="center" >
   <img src="https://profile-counter.glitch.me/{rudrasish2003}/count.svg" alt="Rudrasish:: Visitor's Count" />
 </p>
 
