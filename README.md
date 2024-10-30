@@ -110,10 +110,9 @@
 
 # 📞 Connect Me:
 <p align="center">
-  <a href="https://www.instagram.com/_srinjoy_pramanik?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/srinjoy-pramanik-48560b246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:srinjoypramanik2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+  <a href="https://www.instagram.com/_.rudrasheeeesh._?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rudrasish-dutta-9b9078282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   </p>
 
 # 👁️ Visitor's Count 
 <p >
