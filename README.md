@@ -93,20 +93,26 @@
   </a>
 </div>
 
----
+ ---
 
 # 🏆 LeetCode Stats:
-<img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats">
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/rudrasish_2003?ext=heatmap" alt="LeetCode Stats">
+</div>
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rudrasish2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasish2003&theme=dark&hide_border=false"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasish2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rudrasish2003&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=rudrasish2003&theme=onestar&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
 
 # 📞 Connect Me:
 <p align="center">
