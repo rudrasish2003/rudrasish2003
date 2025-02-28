@@ -18,7 +18,9 @@
 - 🌱 Expanding knowledge in **Transformer Models & Deep Voice Technologies**  
 - 💬 Happy to discuss **Machine Learning, CNN, Deep Learning**
 - Winner at **VisionHack** hosted by **Guru Nanak Institute of Technology**
+- 2nd Runners Up at **Innovocon 2025** hosted by **JIS College Of Engineering , Kalyani**
 - Top 10 at **DoubleSlash3.0** hosted by **IEEE Jadavpur University**
+- Finalist at **Diversion2k25** hosted by **IEM Kolkata**
 - 📫 Reach me at <a href="mailto:rudrasish2003@gmail.com"><img src="https://img.shields.io/badge/rudrasish2003%40gmail.com-red?logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
 - 👨‍💻 Explore My Portfolio: <a href="https://rudrasish2003.github.io/MyPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" style="display: inline-block; vertical-align: middle;"/></a>
 
