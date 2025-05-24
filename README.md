@@ -31,8 +31,9 @@
 
 ---
 
-# 💻 Tech Stack:
+<!-- 💻 Tech Stack -->
 <div class="tech-stack">
+  <!-- Existing Badges -->
   <a href="https://cplusplus.com" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="margin-bottom: 4px;" />
   </a>
@@ -95,6 +96,26 @@
   </a>
   <a href="https://huggingface.co/docs/transformers/index" target="_blank">
     <img src="https://img.shields.io/badge/Transformers-%23FF5722.svg?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers" style="margin-bottom: 4px;" />
+  </a>
+
+  <!-- New Badges -->
+  <a href="https://cloud.google.com/dialogflow/cx" target="_blank">
+    <img src="https://img.shields.io/badge/Dialogflow%20CX-%23FF9800.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Dialogflow CX" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://render.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" style="margin-bottom: 4px;" />
+  </a>
+  <a href="https://gradio.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Gradio-3F3FFF?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" style="margin-bottom: 4px;" />
   </a>
 </div>
 
