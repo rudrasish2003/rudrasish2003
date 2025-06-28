@@ -19,6 +19,7 @@
 - 💬 Happy to discuss **Machine Learning, CNN, Deep Learning**
 - Winner at **VisionHack** hosted by **Guru Nanak Institute of Technology**
 - 2nd Runners Up at **Innovocon 2025** hosted by **JIS College Of Engineering , Kalyani**
+- Winner and Top 5 at **Hack4Bengal 2k25** hosted by **SNU**
 - Top 10 at **DoubleSlash3.0** hosted by **IEEE Jadavpur University**
 - Finalist at **Diversion2k25** hosted by **IEM Kolkata**
 - 📫 Reach me at <a href="mailto:rudrasish2003@gmail.com"><img src="https://img.shields.io/badge/rudrasish2003%40gmail.com-red?logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
