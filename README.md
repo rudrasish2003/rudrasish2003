@@ -14,9 +14,11 @@
  
 
  
-- 🔭 Currently working on **Shabdh.Ai**  
+- 🔭 Currently working on **Agentic Ai**  
 - 🌱 Expanding knowledge in **Transformer Models & Deep Voice Technologies**  
 - 💬 Happy to discuss **Machine Learning, CNN, Deep Learning**
+- Winner and Top 5 at **Hack4Bengal Season4**
+,Eastern India's Largest Hackathon 
 - Winner at **VisionHack** hosted by **Guru Nanak Institute of Technology**
 - 2nd Runners Up at **Innovocon 2025** hosted by **JIS College Of Engineering , Kalyani**
 - Winner and Top 5 at **Hack4Bengal 2k25** hosted by **SNU**
